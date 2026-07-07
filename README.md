@@ -264,19 +264,12 @@ The project automatically generates:
 
 | Executive Dashboard |
 |----------------------|
-| ![](images/Executive dashboard.png) |
+| ![](images/Executive Dashboard.png) |
 
 | Customer Analytics |
 |--------------------|
 | ![](images/Customer Dashboard.png) |
 
-| Financial Analytics |
-|---------------------|
-| ![](images/Financial Dashboard.png) |
-
-| Credit Risk Analytics |
-|------------------------|
-| ![](images/Risk Dashboard.png) |
 
 # 🚀 Installation
 
