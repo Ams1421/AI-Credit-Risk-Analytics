@@ -262,37 +262,24 @@ The project automatically generates:
 
 # 📷 Dashboard Preview
 
-## Executive Dashboard
+| Executive Dashboard |
+|----------------------|
+| ![](images/Executive dashboard.png) |
 
-> *(Add Screenshot)*
+| Customer Analytics |
+|--------------------|
+| ![](images/customer Dashboard.png) |
 
----
+| Financial Analytics |
+|---------------------|
+| ![](images/financial Dashboard.png) |
 
-## Customer Analytics
-
-> *(Add Screenshot)*
-
----
-
-## Financial Analytics
-
-> *(Add Screenshot)*
-
----
-
-## Credit Risk Analytics
-
-> *(Add Screenshot)*
-
----
+| Credit Risk Analytics |
+|------------------------|
+| ![](images/risk Dashboard.png) |
 
 # 🚀 Installation
 
-Clone the repository
-
-```bash
-git clone https://github.com/your-username/AI-Credit-Risk-Analytics.git
-```
 
 Move into the project
 
