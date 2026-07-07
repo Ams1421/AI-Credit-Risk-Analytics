@@ -260,15 +260,17 @@ The project automatically generates:
 
 ---
 
-# 📷 Dashboard Preview
+## 📸 Dashboard Preview
 
-| Executive Dashboard |
-|----------------------|
-| ![](images/Executive Dashboard.png) |
+### Executive Dashboard
 
-| Customer Analytics |
-|--------------------|
-| ![](images/Customer Dashboard.png) |
+![Executive Dashboard](images/Executive%20Dashboard.png)
+
+---
+
+### Customer Dashboard
+
+![Customer Dashboard](images/Customer%20Dashboard.png)
 
 
 # 🚀 Installation
