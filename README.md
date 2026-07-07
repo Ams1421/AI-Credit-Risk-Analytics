@@ -268,15 +268,15 @@ The project automatically generates:
 
 | Customer Analytics |
 |--------------------|
-| ![](images/customer Dashboard.png) |
+| ![](images/Customer Dashboard.png) |
 
 | Financial Analytics |
 |---------------------|
-| ![](images/financial Dashboard.png) |
+| ![](images/Financial Dashboard.png) |
 
 | Credit Risk Analytics |
 |------------------------|
-| ![](images/risk Dashboard.png) |
+| ![](images/Risk Dashboard.png) |
 
 # 🚀 Installation
 
