@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Python Build
+build/
+dist/
+*.egg-info/
+
+# Model Files
+*.pkl
+
+# Python Cache
+.pytest_cache/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+
+# Power BI Cache
+*.pbix.autosave
